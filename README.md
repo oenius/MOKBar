@@ -9,7 +9,7 @@ MOKBar providing the sample usage and won't bother ur other ui logic, such as au
 
 Sample
 -----
-![sample](https://github.com/oenius/MOKBar/blob/master/sample.gif)
+![sample](https://github.com/oenius/MOKBar/blob/master/0.gif)
 
 
 Usage
