@@ -15,6 +15,8 @@ Sample
 Usage
 -----
 
+If you got the almost logic , all you need is to add the code as follows.
+
 ```objective-c
 
   [self.navigationController setNavigationBarHidden:YES];
